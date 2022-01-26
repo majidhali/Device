@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="helloMajid:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/helloMajid_jar</output-path>
+    <root id="archive" name="helloMajid.jar">
+      <element id="module-output" name="helloMajid" />
+    </root>
+  </artifact>
+</component>
